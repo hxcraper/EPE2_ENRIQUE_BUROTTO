@@ -1,0 +1,32 @@
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\appsettings.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\SERVICIO DE FACTURACION.exe
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\SERVICIO DE FACTURACION.deps.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\SERVICIO DE FACTURACION.runtimeconfig.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\SERVICIO DE FACTURACION.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\SERVICIO DE FACTURACION.pdb
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.csproj.AssemblyReference.cache
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.AssemblyInfoInputs.cache
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.AssemblyInfo.cs
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets\msbuild.SERVICIO DE FACTURACION.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets\msbuild.build.SERVICIO DE FACTURACION.props
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SERVICIO DE FACTURACION.props
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SERVICIO DE FACTURACION.props
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\scopedcss\bundle\SERVICIO DE FACTURACION.styles.css
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.csproj.CopyComplete
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\refint\SERVICIO DE FACTURACION.dll
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.pdb
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.genruntimeconfig.cache
+C:\Users\kike\Desktop\EPE2.NET\SERVICIO DE FACTURACION\obj\Debug\net6.0\ref\SERVICIO DE FACTURACION.dll
